@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Learn/B_learn.unity
+  isLoaded: 1
+  isActive: 1

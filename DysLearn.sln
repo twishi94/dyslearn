@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DysLearn", "DysLearn.csproj", "{DA1EE5D5-D6E8-148B-2906-463737574251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DysLearn.Editor", "DysLearn.Editor.csproj", "{B5E6F542-C25D-6E0A-C02A-7BC14D623C9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA1EE5D5-D6E8-148B-2906-463737574251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1EE5D5-D6E8-148B-2906-463737574251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1EE5D5-D6E8-148B-2906-463737574251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1EE5D5-D6E8-148B-2906-463737574251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E6F542-C25D-6E0A-C02A-7BC14D623C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E6F542-C25D-6E0A-C02A-7BC14D623C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E6F542-C25D-6E0A-C02A-7BC14D623C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E6F542-C25D-6E0A-C02A-7BC14D623C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="DysLearn.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Alpha_Scripts\word_fit.cs">
+    <Files>
+      <File FileName="Assets\Alpha_Scripts\word_fit.cs" Line="23" Column="26" />
+      <File FileName="Assets\Alpha_Scripts\word_bat.cs" Line="15" Column="43" />
+      <File FileName="Assets\Alpha_Scripts\script_f.cs" Line="36" Column="24" />
+      <File FileName="Assets\Alpha_Scripts\script_b.cs" Line="65" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

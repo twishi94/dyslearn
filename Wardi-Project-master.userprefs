@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Wardi-Project-master.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Alpha_Scripts\word_fit.cs">
+    <Files>
+      <File FileName="Assets\Alpha_Scripts\word_fit.cs" Line="57" Column="28" />
+      <File FileName="Assets\Alpha_Scripts\word_rat.cs" Line="1" Column="1" />
+      <File FileName="Assets\Alpha_Scripts\word_bat.cs" Line="1" Column="1" />
+      <File FileName="Assets\Alpha_Scripts\word_dip.cs" Line="1" Column="1" />
+      <File FileName="Assets\Alpha_Scripts\word_felt.cs" Line="1" Column="1" />
+      <File FileName="Assets\Alpha_Scripts\word_left.cs" Line="1" Column="1" />
+      <File FileName="Assets\Alpha_Scripts\word_nuts.cs" Line="1" Column="1" />
+      <File FileName="Assets\Alpha_Scripts\word_right.cs" Line="1" Column="1" />
+      <File FileName="Assets\Alpha_Scripts\word_tower.cs" Line="1" Column="1" />
+      <File FileName="Assets\Alpha_Scripts\word_write.cs" Line="1" Column="1" />
+      <File FileName="Assets\Alpha_Scripts\script_a.cs" Line="1" Column="1" />
+      <File FileName="Assets\increase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Alpha_Scripts\script_w.cs" Line="1" Column="1" />
+      <File FileName="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
